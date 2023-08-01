@@ -1,3 +1,7 @@
+# Monte Carlo simulation is a widely used technique for option pricing in finance. 
+# It involves simulating the future stock price using random walks and then calculating 
+# the option payoff based on the simulated stock prices.
+
 import numpy as np
 import time
 import numba

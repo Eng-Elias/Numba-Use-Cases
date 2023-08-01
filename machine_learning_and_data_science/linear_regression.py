@@ -1,3 +1,7 @@
+#Linear regression is a popular supervised learning algorithm used for 
+# predicting a continuous target variable based on one or more predictor variables. 
+# In this example, we'll perform simple linear regression with one predictor variable.
+
 import numpy as np
 import time
 import numba

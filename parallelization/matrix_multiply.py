@@ -1,3 +1,7 @@
+# Matrix multiplication is a computationally intensive task that can benefit from parallelization. 
+# We'll use Numba's numba.prange function to parallelize the nested loops for matrix multiplication, 
+# taking advantage of multiple CPU cores.
+
 import numpy as np
 import time
 import numba

@@ -1,3 +1,7 @@
+# In this example, we'll simulate the motion of a particle moving 
+# under the influence of a constant force. We'll use the equations of 
+# motion to update the particle's position and velocity over time.
+
 import time
 import numba
 

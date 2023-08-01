@@ -1,3 +1,8 @@
+# The trapezoidal rule is a numerical integration method 
+# used to approximate the definite integral of a function. 
+# It divides the area under the curve of the function into trapezoids 
+# and sums up their areas to approximate the integral.
+
 import time
 import numba
 
