@@ -28,6 +28,14 @@ Contributions to this repository are encouraged! If you have additional use case
 
 The goal of this repository is to illustrate the advantages of using Numba in various use cases. The results may vary based on the complexity of the code, hardware configurations, and the specific use case. Always consider the specific requirements and characteristics of your projects when integrating Numba into your workflow.
 
+## Article
+
+For a more details, you can read the full article:
+
+On Medium: ["Numba: Unleashing the Power of Python for High-Performance Computing"](https://medium.com/@eng_elias/numba-unleashing-the-power-of-python-for-high-performance-computing-fdec2c778b10)
+
+On My Blog: ["Numba: Unleashing the Power of Python for High-Performance Computing"](https://engelias.website/blog/numba-unleashing-the-power-of-python-for-high-performance-computing/)
+
 ## License
 
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
